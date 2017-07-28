@@ -1,0 +1,449 @@
+micro_b001_0		[[Yes, it's annoying and cumbersome to separate your rubbish properly all the time.]]	 Three different bin bags stin
+micro_b001_1	ubbish properly all the time. 	[[Three different bin bags stink away in the kitchen and have to be sorted into different wheelie bins.]]	 But still Germany produces wa
+micro_b001_2	 into different wheelie bins. 	[[But still Germany produces way too much rubbish and too many resources are lost when what actually should be separated and recycled is burnt.]]	 We Berliners should take the 
+micro_b001_3	arated and recycled is burnt. 	[[We Berliners should take the chance and become pioneers in waste separation!]]	
+micro_b002_0		[[One can hardly move in Friedrichshain or Neukölln these days without permanently scanning the ground for dog dirt.]]	 And when bad luck does strike
+micro_b002_1	ning the ground for dog dirt. 	[[And when bad luck does strike and you step into one of the many 'land mines' you have to painstakingly scrape the remains off your soles.]]	 Higher fines are therefore th
+micro_b002_2	e the remains off your soles. 	[[Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.]]	 Of course, first they'd actua
+micro_b002_3	imply thoughtless dog owners. 	[[Of course, first they'd actually need to be caught in the act by public order officers, but once they have to dig into their pockets, their laziness will sure vanish!]]	
+micro_b003_0		[[Health insurance companies should not cover treatment in complementary medicine unless the promised effect and its medical benefit have been concretely proven.]]	 Yet this very proof is lackin
+micro_b003_1	 have been concretely proven. 	[[Yet this very proof is lacking in most cases.]]	 Patients do often report reli
+micro_b003_2	oof is lacking in most cases. 	[[Patients do often report relief of their complaints after such treatments.]]	 But as long as it is unclear 
+micro_b003_3	laints after such treatments. 	[[But as long as it is unclear as to how this works, the funds should rather be spent on therapies where one knows with certainty.]]	
+micro_b004_0		[[Of course there are a number of programmes in public broadcasting that are not worth the licencing fee, and others, such as “Musikantenstadl” and soap operas, are only interesting to certain audiences.]]	 Nevertheless, everybody shoul
+micro_b004_1	resting to certain audiences. 	[[Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure, for we need general and independent media.]]	 After all we want to get our 
+micro_b004_2	eneral and independent media. 	[[After all we want to get our view of the world neither through the lens of the government nor through that of rich media entrepreneurs.]]	
+micro_b005_0		[[Intelligence services must urgently be regulated more tightly by parliament; this should be clear to everyone after the disclosures of Edward Snowden.]]	 Granted, those concern primar
+micro_b005_1	isclosures of Edward Snowden. 	[[Granted, those concern primarily the British and American intelligence services, but the German services evidently do collaborate with them closely.]]	 Their tools, data and experti
+micro_b005_2	ollaborate with them closely. 	[[Their tools, data and expertise have been used to keep us under surveillance for a long time.]]	
+micro_b006_0		[[The death penalty is a legal means that as such is not practicable in Germany.]]	 For one thing, inviolable hum
+micro_b006_1	s not practicable in Germany. 	[[For one thing, inviolable human dignity is anchored in our constitution, and furthermore no one may have the right to adjudicate upon the death of another human being.]]	 Even if many people think tha
+micro_b006_2	death of another human being. 	[[Even if many people think that a murderer has already decided on the life or death of another person, this is precisely the crime that we should not repay with the same.]]	
+micro_b007_0		[[Dog dirt on the pavement requires my complete, ground-focused attention on my way to work.]]	 This results in a lack of ale
+micro_b007_1	 attention on my way to work. 	[[This results in a lack of alertness in the road traffic comparable to a minor offense of the traffic regulations.]]	 That's why causing such obsta
+micro_b007_2	e of the traffic regulations. 	[[That's why causing such obstacles must to be more urgently punished.]]	 Dog owners may think that dog
+micro_b007_3	to be more urgently punished. 	[[Dog owners may think that dog dirt is only a harmless secretion of an animal like any other.]]	 Yet then they misjudge its im
+micro_b007_4	 of an animal like any other. 	[[Yet then they misjudge its impact on road traffic.]]	
+micro_b008_0		[[Of course it would be nice and simple if after a fun night out with a party acquaintance you could simply take the 'morning-after pill' and feel at ease.]]	 But it's not that simple. Per
+micro_b008_1	after pill' and feel at ease. 	[[But it's not that simple.]]	 Perhaps a new life was alread
+micro_b008_2	se. But it's not that simple. 	[[Perhaps a new life was already created that night.]]	 I would kill it without furth
+micro_b008_3	s already created that night. 	[[I would kill it without further thought.]]	 That's why a visit to the doc
+micro_b008_4	l it without further thought. 	[[That's why a visit to the doctor and professional advice should remain mandatory.]]	
+micro_b009_0		[[It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.]]	 Clearly the landlord has to p
+micro_b009_1	rent than previous residents. 	[[Clearly the landlord has to pay for some repairs before a new lease.]]	 But surely these costs could 
+micro_b009_2	e repairs before a new lease. 	[[But surely these costs could be covered by a minimal increase in rent over the course of the entire lease.]]	 All the more so as for an ade
+micro_b009_3	e course of the entire lease. 	[[All the more so as for an adequate profit the rental rate as compared to the base rent need not be raised for every new lease.]]	
+micro_b010_0		[[Alternative treatments should be subsidized in the same way as conventional treatments, since both methods can lead to the prevention, mitigation or cure of an illness.]]	 Besides it should be in the i
+micro_b010_1	gation or cure of an illness. 	[[Besides it should be in the interest of the health insurers to recognize alternative medicine as treatment, since there is a chance of recovery.]]	 It doesn't matter after all t
+micro_b010_2	here is a chance of recovery. 	[[It doesn't matter after all that those who administer the treatment don't have 'doctor status'.]]	
+micro_b011_0		[[For dog dirt left on the pavement dog owners should by all means pay a bit more.]]	 Indeed it's not the fault of 
+micro_b011_1	 by all means pay a bit more. 	[[Indeed it's not the fault of the animals, but once you step in it, their excrement seems to stick rather persistently to your soles.]]	
+micro_b012_0		[[Some may find the idea of a school uniform anachronistic, or regard it as too much of an intervention into the leeway of students and parents to make decisions.]]	 Indeed, however, it's already
+micro_b012_1	nd parents to make decisions. 	[[Indeed, however, it's already the case today that students of apparently 'uniform-free' schools are essentially wearing a uniform consisting of certain brand-name garments.]]	 A simply designed practical o
+micro_b012_2	 certain brand-name garments. 	[[A simply designed practical outfit would even out the overall visual image of a school, and direct attention towards the character and achievements of the students - and not their buying power.]]	
+micro_b013_0		[[Health insurance companies should naturally cover alternative medical treatments.]]	 Not all practices and approac
+micro_b013_1	ternative medical treatments. 	[[Not all practices and approaches that are lumped together under this term may have been proven in clinical trials, yet it's precisely their positive effect when accompanying conventional 'western' medical therapies that's been demonstrated as beneficial.]]	 Besides many general practiti
+micro_b013_2	n demonstrated as beneficial. 	[[Besides many general practitioners offer such counselling and treatments in parallel anyway - and who would want to question their broad expertise?]]	
+micro_b014_0		[[Actually only those people should pay a TV & radio licence fee who really watch ARD, ZDF, Arte etc. It is in fact good to support sophisticated programming through fees.]]	 Curiously, however, there are
+micro_b014_1	ted programming through fees. 	[[Curiously, however, there are still adverts and product placements on the public channels.]]	 What are you paying for, then
+micro_b014_2	ments on the public channels. 	[[What are you paying for, then?]]	 That the same actors time and
+micro_b014_3	hat are you paying for, then? 	[[That the same actors time and again get to have a laugh at exotic shooting locations?]]	 Also the scripts are often co
+micro_b014_4	at exotic shooting locations? 	[[Also the scripts are often copied off each other.]]	
+micro_b015_0		[[Well, I as an employee find it very practical to be able to shop at least on weekends.]]	 Sure, other people have to wo
+micro_b015_1	to shop at least on weekends. 	[[Sure, other people have to work in the shops on the weekend, but they can have days off during the week and run errands at their leisure while I'm stuck in the office.]]	 Plus, the state wants me to s
+micro_b015_2	hile I'm stuck in the office. 	[[Plus, the state wants me to spend my money, and how am I supposed to do that when the shops aren't open when I'm off work?]]	
+micro_b016_0		[[The idea of the bachelor degree is to put together a cumulative grade from various individual assignments in order to generate a final grade.]]	 This is also more akin to the
+micro_b016_1	er to generate a final grade. 	[[This is also more akin to the real working world later, where performance isn't singular, but constant and has to be delivered over longer periods.]]	 That's why it makes sense tha
+micro_b016_2	elivered over longer periods. 	[[That's why it makes sense that the bachelor thesis only makes up a relatively small portion of the final grade (15 out of 120 credits).]]	 However, the effort required 
+micro_b016_3	rade (15 out of 120 credits). 	[[However, the effort required for the individual equally weighted modules differs strongly.]]	 It would therefore be wise to
+micro_b016_4	ted modules differs strongly. 	[[It would therefore be wise to adjust the required effort for final theses accordingly.]]	
+micro_b017_0		[[Rent prices should be limited by a cap when there's a change of tenant.]]	 Landlords may want to earn as
+micro_b017_1	n there's a change of tenant. 	[[Landlords may want to earn as much as possible, and many, consistent with market principles, are prepared to pay higher rents, but that people with the same income suddenly must pay more and can't live in the same flat anymore seems implausible.]]	 Gentrification destroys entir
+micro_b017_2	at anymore seems implausible. 	[[Gentrification destroys entire districts and their culture.]]	
+micro_b018_0		[[The choice of an attending physician is at the discretion of the patient.]]	 Yet the funds of the health i
+micro_b018_1	he discretion of the patient. 	[[Yet the funds of the health insurance companies are a common benefit for all premium payers.]]	 They should not be spent on p
+micro_b018_2	nefit for all premium payers. 	[[They should not be spent on personal preferences without proven use.]]	 The effectiveness of many nat
+micro_b018_3	eferences without proven use. 	[[The effectiveness of many natural remedies has not been demonstrated.]]	 Therefore no unproven and unr
+micro_b018_4	es has not been demonstrated. 	[[Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.]]	
+micro_b019_0		[[It is desirable that no one channels his or her wealth past the tax authorities.]]	 Those who do or try to should
+micro_b019_1	lth past the tax authorities. 	[[Those who do or try to should be held accountable if at all possible.]]	 Having said that, state funds
+micro_b019_2	countable if at all possible. 	[[Having said that, state funds are often wasted on nonsensical investments, so that this ideal appears unworthy of support in many ways.]]	 Besides, the trading of infor
+micro_b019_3	rthy of support in many ways. 	[[Besides, the trading of information is obviously driven by greed of gain.]]	 Tax data that are not made av
+micro_b019_4	usly driven by greed of gain. 	[[Tax data that are not made available for free should therefore not be acquired by the state.]]	
+micro_b020_0		[[Olympic events are rooted in old traditions.]]	 On the other hand, the events
+micro_b020_1	are rooted in old traditions. 	[[On the other hand, the events have a culturally determined character.]]	 Our society is strongly digit
+micro_b020_2	turally determined character. 	[[Our society is strongly digitized and influenced by computers.]]	 Yet sports are usually associ
+micro_b020_3	 and influenced by computers. 	[[Yet sports are usually associated with physical training.]]	 Since however skat, chess etc
+micro_b020_4	iated with physical training. 	[[Since however skat, chess etc. are not accepted as Olympic events, computer games should also not be recognized as Olympic events.]]	
+micro_b021_0		[[Tuition fees should not be charged in Germany.]]	 Studying and taking higher de
+micro_b021_1	ld not be charged in Germany. 	[[Studying and taking higher degrees must remain a basic right for everyone.]]	 Fees result in longer duratio
+micro_b021_2	n a basic right for everyone. 	[[Fees result in longer durations of studies.]]	 That's costly!
+micro_b021_3	 longer durations of studies. 	[[That's costly!]]	
+micro_b022_0		[[No, the retirement age should be raised to 65 again.]]	 People are getting older on a
+micro_b022_1	should be raised to 65 again. 	[[People are getting older on average, but they are not sicker and not duller because of it.]]	 Without them we'd forgo a gre
+micro_b022_2	and not duller because of it. 	[[Without them we'd forgo a great deal of collected experience.]]	 And we'd have to offer more l
+micro_b022_3	deal of collected experience. 	[[And we'd have to offer more leisure activities for seniors.]]	
+micro_b023_0		[[No human being or human committee should again be given the permission to rule over 'life or death'.]]	 Courts are also subject to hu
+micro_b023_1	to rule over 'life or death'. 	[[Courts are also subject to human error.]]	 That's why Germany should not
+micro_b023_2	 also subject to human error. 	[[That's why Germany should not introduce capital punishment!]]	 Every human, even those who h
+micro_b023_3	introduce capital punishment! 	[[Every human, even those who have committed a despicable crime, can bring themselves to regret and change their opinion.]]	 A door must remain open for m
+micro_b023_4	ret and change their opinion. 	[[A door must remain open for making amends.]]	
+micro_b024_0		[[A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.]]	 For affordable living space i
+micro_b024_1	ses when changing residences. 	[[For affordable living space is scarce.]]	 Besides, a higher degree of l
+micro_b024_2	dable living space is scarce. 	[[Besides, a higher degree of luxury (expensive flats) is not necessary for the majority of the people, but rather a flat at all.]]	 Plus everyone has to move app
+micro_b024_3	le, but rather a flat at all. 	[[Plus everyone has to move approx. 3-10 times in his or her life, because the size of the desired accommodation changes over the course of a lifetime.]]	
+micro_b025_0		[[From time immemorial humans have had complementary medicine, and it has not generally been ineffective.]]	 A reduction in the amount of 
+micro_b025_1	t generally been ineffective. 	[[A reduction in the amount of chemically produced medication per person is most certainly desirable.]]	 This will do little damage to
+micro_b025_2	 is most certainly desirable. 	[[This will do little damage to the pharmaceutical industry, and conventional medicine will also hardly suffer.]]	 The patient could learn to be
+micro_b025_3	cine will also hardly suffer. 	[[The patient could learn to be more aware of his or her body and to treat it more healthily.]]	
+micro_b026_0		[[The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.]]	 Their treatment methods and s
+micro_b026_1	nd alternative practitioners. 	[[Their treatment methods and successes are not amply researched or proven.]]	 Yet many patients subjectivel
+micro_b026_2	t amply researched or proven. 	[[Yet many patients subjectively experience relief or are cured of their complaints, which ultimately also saves costs for conventional treatments and medication.]]	 Also conventional medicine is
+micro_b026_3	al treatments and medication. 	[[Also conventional medicine is in many cases not successful, and, moreover, entails significant risks and side effects.]]	
+micro_b027_0		[[The death penalty should be abandoned everywhere.]]	 From a Christian and humanist
+micro_b027_1	ould be abandoned everywhere. 	[[From a Christian and humanistic perspective it is not allowed to kill someone.]]	 Proponents of the death penal
+micro_b027_2	 not allowed to kill someone. 	[[Proponents of the death penalty count on its deterring effect as well as the ultimate elimination of any potential threat.]]	 However also the threat of th
+micro_b027_3	tion of any potential threat. 	[[However also the threat of the death penalty in the respective countries apparently cannot prevent murder and violent crime.]]	 Moreover it turns out time an
+micro_b027_4	ent murder and violent crime. 	[[Moreover it turns out time and again that innocent people are also convicted and executed.]]	
+micro_b028_0		[[The universities in Germany should not under any circumstances charge tuition fees.]]	 This would impede or prevent 
+micro_b028_1	mstances charge tuition fees. 	[[This would impede or prevent access to those who are financially weaker.]]	 The anticipated objectives of
+micro_b028_2	e who are financially weaker. 	[[The anticipated objectives of tuition fees can be achieved by other means.]]	 There are other instruments t
+micro_b028_3	n be achieved by other means. 	[[There are other instruments to motivate tighter discipline while studying.]]	 And funding-wise it ought to 
+micro_b028_4	er discipline while studying. 	[[And funding-wise it ought to be considered how costs incurred by students from other (federal) states can be reimbursed.]]	
+micro_b029_0		[[The TV/radio licence fee can only be required of all citizens/households equally.]]	 Critics point out that they a
+micro_b029_1	 citizens/households equally. 	[[Critics point out that they are not using what's on offer by public broadcasting.]]	 I do doubt that there is anyo
+micro_b029_2	offer by public broadcasting. 	[[I do doubt that there is anyone who has never at least indirectly watched the programming of the public broadcasters.]]	 However, it is impossible to 
+micro_b029_3	g of the public broadcasters. 	[[However, it is impossible to monitor this and collect more customized fees.]]	 Just as with other choices in
+micro_b029_4	collect more customized fees. 	[[Just as with other choices in culture or infrastructure, public broadcasters are also to be financed, regardless of whether individuals make use of their programming or not.]]	
+micro_b030_0		[[School uniforms should not be worn in our schools.]]	 They do offer the benefit tha
+micro_b030_1	d not be worn in our schools. 	[[They do offer the benefit that the competition over brand-name clothes and the discrimination of the socially weak are prevented.]]	 Nevertheless hardly anyone wi
+micro_b030_2	 socially weak are prevented. 	[[Nevertheless hardly anyone wishes to dress themselves or their children in a standard uniform.]]	 Plus such uniforms also stand
+micro_b030_3	ildren in a standard uniform. 	[[Plus such uniforms also stand for ideological conformity and for the suppression of individual self-development.]]	
+micro_b031_0		[[One should not re-introduce capital punishment in Germany, since no one can claim the right to rule over the life or death of another human being.]]	 Capital punishment will not d
+micro_b031_1	death of another human being. 	[[Capital punishment will not deter anyone else from an atrocity.]]	 Everyone must be given the ch
+micro_b031_2	anyone else from an atrocity. 	[[Everyone must be given the chance to hone their conscience and possibly make amends for their deed.]]	
+micro_b032_0		[[There should be a higher fine for dog dirt on the pavement.]]	 Dog dirt is disgusting and a 
+micro_b032_1	for dog dirt on the pavement. 	[[Dog dirt is disgusting and a hygiene problem.]]	 Also children, adults and oth
+micro_b032_2	usting and a hygiene problem. 	[[Also children, adults and other animals aren't allowed to leave droppings on the pavement.]]	 If you dispose of the waste t
+micro_b032_3	ve droppings on the pavement. 	[[If you dispose of the waste then and there yourself, no fine is necessary.]]	
+micro_b033_0		[[I find the peripheral housing development at Tempelhofer Feld right for urban planning reasons, as the area is right in the middle of the city (capital).]]	 The size of the field allows 
+micro_b033_1	middle of the city (capital). 	[[The size of the field allows for both housing and generous open space.]]	
+micro_b034_0		[[Tuition fees should not generally be charged by universities.]]	 Universities are for all citi
+micro_b034_1	y be charged by universities. 	[[Universities are for all citizens, independent of their finances.]]	 Education and training are fu
+micro_b034_2	ndependent of their finances. 	[[Education and training are fundamental rights which the state, the society must provide.]]	 If a university lacks the fun
+micro_b034_3	te, the society must provide. 	[[If a university lacks the funds, sponsors must be found.]]	 Unfortunately this can lead t
+micro_b034_4	unds, sponsors must be found. 	[[Unfortunately this can lead to disagreeable dependencies in some cases.]]	
+micro_b035_0		[[Complementary medicine includes treatments with proven health benefits in many areas which are often less costly than medication from conventional medicine, which are also paid for after all.]]	 Often natural treatments do n
+micro_b035_1	 are also paid for after all. 	[[Often natural treatments do not put as much of a strain on the patient.]]	 Such therapies can frequently
+micro_b035_2	h of a strain on the patient. 	[[Such therapies can frequently result in an improvement in the condition through the active participation of the patient.]]	 The health insurance companie
+micro_b035_3	participation of the patient. 	[[The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.]]	
+micro_b036_0		[[Video games ought to be included in the ranks of Olympic events.]]	 The performance often require
+micro_b036_1	 the ranks of Olympic events. 	[[The performance often required by players is considerable and by all means comparable to physical efforts.]]	 Various skills are promoted a
+micro_b036_2	mparable to physical efforts. 	[[Various skills are promoted and required by different games, including planning abilities, reaction time, and reasoning to name but a few.]]	 Considering their requirement
+micro_b036_3	 reasoning to name but a few. 	[[Considering their requirements, some video games are not relevant as sports, but this issue should be solvable through a clearly structured preselection process.]]	
+micro_b037_0		[[The morning-after pill ought to be available over-the-counter in pharmacies.]]	 Even with state-of-the-art co
+micro_b037_1	er-the-counter in pharmacies. 	[[Even with state-of-the-art contraceptives there can be mistakes and problems and an unwanted pregnancy can place a significant strain on both the parents and the child for the rest of their lives.]]	 Some worry about careless use
+micro_b037_2	 for the rest of their lives. 	[[Some worry about careless use of such measures, but this problem should rather be addressed with comprehensive prior education.]]	
+micro_b038_0		[[School uniforms should be introduced in our schools again.]]	 This provides an at least sup
+micro_b038_1	roduced in our schools again. 	[[This provides an at least superficial equalization in our heavily economically oriented society, which may reduce discrimination of financially and/or socially disadvantaged children.]]	 Furthermore, it would facilit
+micro_b038_2	ially disadvantaged children. 	[[Furthermore, it would facilitate the finding of truants, who may wish to get away with fewer classes at school.]]	 Uniforms always and immediate
+micro_b038_3	with fewer classes at school. 	[[Uniforms always and immediately provoke fear of losing one's individuality but what's really lacking in schools today is rather a real sense of community, which would possibly be strengthened by an equal, collective appearance.]]	
+micro_b039_0		[[The EU should exert influence on the political events in Ukraine.]]	 The developments in that conf
+micro_b039_1	 political events in Ukraine. 	[[The developments in that conflict should not be left to former Cold War opponents alone, for that course can only lead to escalation in some form.]]	 Furthermore, Ukraine is cultu
+micro_b039_2	d to escalation in some form. 	[[Furthermore, Ukraine is culturally and geographically much closer than other countries that the EU (used to) get involved with.]]	 Indeed one could argue that a
+micro_b039_3	 (used to) get involved with. 	[[Indeed one could argue that a country has to deal with internal political changes itself, but political power also brings about political responsibility, in this case the responsibility to protect the Ukrainian people from the rather strong interests of the two Great Powers.]]	
+micro_b040_0		[[There should be much higher fines for dog dirt left on pavements.]]	 Stepping in dog dirt is gross
+micro_b040_1	r dog dirt left on pavements. 	[[Stepping in dog dirt is gross and absolutely ruins your day due to the dirt, the stench and the often considerable effort to get rid of it.]]	 Besides, the fines for public
+micro_b040_2	able effort to get rid of it. 	[[Besides, the fines for public urination by a human are higher than for leaving behind dog dirt on the pavement, which is disproportionate.]]	 Some dog owners assume that p
+micro_b040_3	t, which is disproportionate. 	[[Some dog owners assume that paying a dog licence fee covers the removal of such waste, but according to this logic one could hardly make the taxpayer accountable for almost any offense.]]	
+micro_b041_0		[[Secret services must be more tightly regulated in order to prevent excessive surveillance.]]	 After all, secret services te
+micro_b041_1	event excessive surveillance. 	[[After all, secret services tend to develop a life of their own (a state within a state), which would be irresponsible for democratic states.]]	 Besides, intelligence service
+micro_b041_2	nsible for democratic states. 	[[Besides, intelligence services intervene massively in the privacy of citizens and must therefore be monitored more closely to prevent abuse.]]	 Parliamentary control however
+micro_b041_3	ore closely to prevent abuse. 	[[Parliamentary control however hampers the work of intelligence services for it jeopardizes the secrecy and security of confidential data and informants.]]	
+micro_b042_0		[[The state ought not to restrict medical products or medical treatments for moral reasons as long as they don't do damage to others.]]	 But without a prescription re
+micro_b042_1	ey don't do damage to others. 	[[But without a prescription requirement there's also no medical advice given before intake.]]	 Since the impact of the morni
+micro_b042_2	l advice given before intake. 	[[Since the impact of the morning-after pill is so massive, particularly due to its abortive effect, dispensing it without medical advice would be inappropriate.]]	 Easy access to the morning-af
+micro_b042_3	dvice would be inappropriate. 	[[Easy access to the morning-after pill could also result in its appearing to be an easier method than other forms of contraception that, however, have fewer health effects.]]	 For instance the morning-afte
+micro_b042_4	r, have fewer health effects. 	[[For instance the morning-after pill could result in a decrease in the use of condoms and thus lead to an increase in new infections with Aids.]]	
+micro_b044_0		[[As a central airport Berlin Tegel is particularly attractive for business travellers and should by all means remain operational.]]	 It is an asset for the econom
+micro_b044_1	all means remain operational. 	[[It is an asset for the economy.]]	 The negative impact of air tr
+micro_b044_2	 is an asset for the economy. 	[[The negative impact of air traffic however is considerable.]]	 Air traffic is extremely envi
+micro_b044_3	ffic however is considerable. 	[[Air traffic is extremely environmentally unfriendly.]]	 Particularly in Tegel, the re
+micro_b044_4	y environmentally unfriendly. 	[[Particularly in Tegel, the residents have been bearing the stress of aircraft noise for decades.]]	
+micro_b045_0		[[By purchasing illegally acquired tax data of citizens, the state is not only turning itself into a felon, but it is paying criminals, too.]]	 Besides, the purchase of such
+micro_b045_1	 it is paying criminals, too. 	[[Besides, the purchase of such CDs is unnecessary today, as, due to changed terms of business, many banks urge their customers to turn themselves in.]]	 Acquiring CDs with tax data o
+micro_b045_2	tomers to turn themselves in. 	[[Acquiring CDs with tax data of tax delinquents is therefore out of the question.]]	 It is indisputable, however, 
+micro_b045_3	herefore out of the question. 	[[It is indisputable, however, that by purchasing such data the state increases the pressure on tax evaders to turn themselves in.]]	
+micro_b046_0		[[Intelligence services apparently enjoy indiscriminate liberties.]]	 No one can follow their activ
+micro_b046_1	joy indiscriminate liberties. 	[[No one can follow their activities in detail.]]	 Of course a certain level of 
+micro_b046_2	w their activities in detail. 	[[Of course a certain level of secrecy is the basis for the work of intelligence services.]]	 The unregulated work of the s
+micro_b046_3	ork of intelligence services. 	[[The unregulated work of the secret services, however, carries the danger of misuse of their authority.]]	 That's why intelligence servi
+micro_b046_4	of misuse of their authority. 	[[That's why intelligence services must be regulated in the framework of parliamentary oversight committees.]]	
+micro_b047_0		[[The morning-after pill has a number of side effects.]]	 A differentiated analysis of 
+micro_b047_1	has a number of side effects. 	[[A differentiated analysis of its side effects is not achievable for a layperson without medical advice.]]	 However these are clearly sta
+micro_b047_2	erson without medical advice. 	[[However these are clearly stated on the package insert, and a request for an early termination of a pregnancy is the right of every woman.]]	 The morning-after pill should
+micro_b047_3	 is the right of every woman. 	[[The morning-after pill should only be prescribed after counselling by a physician or pharmacist.]]	
+micro_b048_0		[[Every German citizen has a right to education.]]	 Quality at universities has i
+micro_b048_1	zen has a right to education. 	[[Quality at universities has its price, which is why students also ought to be involved in this cost factor.]]	 But education must not be a q
+micro_b048_2	involved in this cost factor. 	[[But education must not be a question of money in a wealthy society such as Germany.]]	 Therefore universities should
+micro_b048_3	lthy society such as Germany. 	[[Therefore universities should not charge tuition fees in Germany.]]	
+micro_b049_0		[[The bachelor thesis reflects both the content and the methods of the topics covered during a degree programme.]]	 But one can make occasional m
+micro_b049_1	ed during a degree programme. 	[[But one can make occasional mistakes in the thesis.]]	 If this carries more weight, 
+micro_b049_2	ional mistakes in the thesis. 	[[If this carries more weight, many good individual assignments done during the course of study may be obscured.]]	 A good grade for the thesis a
+micro_b049_3	rse of study may be obscured. 	[[A good grade for the thesis also significantly depends on the supervision of a dedicated teacher.]]	 Due to the many random factor
+micro_b049_4	ision of a dedicated teacher. 	[[Due to the many random factors the bachelor thesis should not play a bigger role.]]	
+micro_b050_0		[[Germany's aging society is undergoing demographic change, and the age of those who are physically and mentally fit is increasing steadily.]]	 Thus social security and pens
+micro_b050_1	y fit is increasing steadily. 	[[Thus social security and pension costs are increasing.]]	 Yet no one should be required
+micro_b050_2	pension costs are increasing. 	[[Yet no one should be required to work for more than 40 years.]]	 Raising the relative retireme
+micro_b050_3	 work for more than 40 years. 	[[Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.]]	
+micro_b051_0		[[Due to the increase in opening hours on Sundays and holidays there is a rise in employment.]]	 However it's mainly temps (th
+micro_b051_1	here is a rise in employment. 	[[However it's mainly temps (that is, students, pupils etc.) who are employed, so this has hardly any effect on the level of full-time employment and the number of unemployed.]]	 On top of that, private and f
+micro_b051_2	and the number of unemployed. 	[[On top of that, private and family life suffers massively because of this reduction and shifting in designated off-times.]]	 And it’s only the large compa
+micro_b051_3	ting in designated off-times. 	[[And it’s only the large companies that can afford the additional personnel expenditure.]]	 For these reasons supermarket
+micro_b051_4	tional personnel expenditure. 	[[For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.]]	
+micro_b052_0		[[Although the workload is getting heavier in many professions and physical and psychological wear on personnel is steadily increasing, the statutory retirement age should in the future not remain at 63 years.]]	 For, due to the low birth rat
+micro_b052_1	uture not remain at 63 years. 	[[For, due to the low birth rate, the proportion of the elderly population and with it pension costs are on the rise, and furthermore, due to today's healthcare most people in many occupations are fitter for work in old age than before.]]	
+micro_b053_0		[[Many people see proven relief of their symptoms and complaints by complementary medicine.]]	 However there is no substanti
+micro_b053_1	ts by complementary medicine. 	[[However there is no substantiated data that this healing isn't simply due to the placebo effect.]]	 Besides many practices in thi
+micro_b053_2	ly due to the placebo effect. 	[[Besides many practices in this field are not regulated professions, which means that quacks and phonies can practice these occupations unknown to the patients.]]	 That's why the statutory heal
+micro_b053_3	ions unknown to the patients. 	[[That's why the statutory health insurance companies should not cover such treatments.]]	 It would be conceivable to in
+micro_b053_4	ld not cover such treatments. 	[[It would be conceivable to invest more into the training and control of this occupation sector on the part of the state.]]	
+micro_b054_0		[[For years there has been a housing shortage in Berlin, so that using Tempelhofer Feld, which offers a lot of open space and is currently hardly developed, as living space is a sensible idea.]]	 Since the area belongs to the
+micro_b054_1	ing space is a sensible idea. 	[[Since the area belongs to the federal state, or the federation, it could even be used for social housing with affordable rents.]]	 Admittedly the fields have cu
+micro_b054_2	ousing with affordable rents. 	[[Admittedly the fields have currently become an attractive leisure park with sporting areas for many visitors and Berliners, especially in spring and summer.]]	 If however one could find a c
+micro_b054_3	ecially in spring and summer. 	[[If however one could find a compromise between green space and housing, then Tempelhofer Feld should definitely be made available for residential construction.]]	
+micro_b055_0		[[Being a pharmacist myself, I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.]]	 From a medical perspective th
+micro_b055_1	ing-after pill in pharmacies. 	[[From a medical perspective the morning-after pill works best when taken as soon as possible after intercourse.]]	 Always having to visit the do
+micro_b055_2	s possible after intercourse. 	[[Always having to visit the doctor first (including travel and waiting time, possible embarrassment, etc.) leads to more unwanted pregnancies.]]	 Many opponents of the pill po
+micro_b055_3	to more unwanted pregnancies. 	[[Many opponents of the pill point out that this does away with the consultation at the doctor's and many women take it unnecessarily.]]	 However, the fact is that we 
+micro_b055_4	 women take it unnecessarily. 	[[However, the fact is that we pharmacists are legally required to inform the patients and possess the same subject matter expertise as doctors.]]	
+micro_b056_0		[[A violation of international law should be more than enough to consider a reaction!]]	 Humanity has made enough mist
+micro_b056_1	nough to consider a reaction! 	[[Humanity has made enough mistakes throughout history by waiting too long, and when it has finally reacted, the only remaining option has usually been war.]]	 It's to be noted that in our 
+micro_b056_2	 option has usually been war. 	[[It's to be noted that in our civilized world, in a democratic country, the people can determine their own fate, as long as the motivation of those people isn't triggered by propaganda, corruption and military pressure.]]	 Since, however, in Russia bes
+micro_b056_3	uption and military pressure. 	[[Since, however, in Russia besides gas and oil only propaganda and corruption rule, the EU should intervene right away.]]	
+micro_b057_0		[[Retirement at 63, that's something everyone who has toiled away (nonstop) up to this point surely deserves.]]	 Only the question remains whe
+micro_b057_1	o this point surely deserves. 	[[Only the question remains whether this early 'leisure' will be nicer if you have no idea what do to all day and you statistically still have almost 20 (!!!) years to go?]]	 Also, one isn't taking respon
+micro_b057_2	 almost 20 (!!!) years to go? 	[[Also, one isn't taking responsibility for society if one gives up one's experienced, healthy and highly qualified capabilities earlier than necessary for private/personal reasons.]]	 Especially now, as there is a
+micro_b057_3	for private/personal reasons. 	[[Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63.]]	
+micro_b058_0		[[Video games, namely FIFA in my case, can fascinate young people for hours more intensively and emotionally than any sport in the world!]]	 It would be fair to make them
+micro_b058_1	 than any sport in the world! 	[[It would be fair to make them into an Olympic event.]]	 Perhaps it is less thrilling 
+micro_b058_2	e them into an Olympic event. 	[[Perhaps it is less thrilling for a spectator than for the player, but also for contemporary Olympic events, I recall curling and 50km cross-country skiing, you have to be more than a freak to follow those more properly than only in the roundup of highlights.]]	 Plus the hurdle to make video
+micro_b058_3	in the roundup of highlights. 	[[Plus the hurdle to make video games Olympic events is minimal, as you don't even need doping tests, only a neutral console.]]	 And many a video game is phys
+micro_b058_4	ests, only a neutral console. 	[[And many a video game is physically and particularly mentally more demanding, when I think of the last FIFA tournament's final, than kicking a ball 20 metres.]]	
+micro_b059_0		[[Rent prices are already regulated in favour of tenants due to existing laws and the rent index.]]	 In view of the high prices fo
+micro_b059_1	ting laws and the rent index. 	[[In view of the high prices for buying flats with existing rent contracts, these are an unattractive investment.]]	 Even if one might think that 
+micro_b059_2	e an unattractive investment. 	[[Even if one might think that additional rent control is needed besides the current tenant protection, one should not deny longstanding owners the opportunity to adjust their returns to market level.]]	 A cap on rent increases upon 
+micro_b059_3	heir returns to market level. 	[[A cap on rent increases upon tenant change is therefore not to be supported.]]	
+micro_b060_0		[[Owner-run shops may potentially be overwhelmed by additional work times on Sundays and holidays, then again supermarkets and large shopping centres dominate the market today already.]]	 Thus smaller shops could bene
+micro_b060_1	ate the market today already. 	[[Thus smaller shops could benefit from the additional freedom, as customers are on average more laid-back on Sunday.]]	 Opening on Sundays and holida
+micro_b060_2	age more laid-back on Sunday. 	[[Opening on Sundays and holidays would therefore help both customers and shops.]]	
+micro_b061_0		[[Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.]]	 In individual cases they may 
+micro_b061_1	gh personnel to enforce them. 	[[In individual cases they may indeed act as a deterrent, in general, however, a clean environment and the role model effect of others is more likely to motivate the dog owner to pick up the droppings than a potential fine.]]	
+micro_b062_0		[[I am not of the opinion that the retirement age should be set at 63 years.]]	 This would mean that organiza
+micro_b062_1	ge should be set at 63 years. 	[[This would mean that organizations would be lacking a great deal of manpower in the future.]]	 The introductory phase of ret
+micro_b062_2	al of manpower in the future. 	[[The introductory phase of retirement at 63 would also be a particular challenge as upon introduction many current employees of advanced age would immediately be eligible to retire.]]	 This is detrimental for Germa
+micro_b062_3	iately be eligible to retire. 	[[This is detrimental for Germany as a business location and leaves employers without a transition period.]]	 The danger here is that exper
+micro_b062_4	 without a transition period. 	[[The danger here is that experienced junior staff is not available in sufficient numbers.]]	
+micro_b064_0		[[I think Berlin with its two inner-city airports was lucky not having to experience an airplane catastrophe for decades.]]	 For safety reasons alone I fi
+micro_b064_1	lane catastrophe for decades. 	[[For safety reasons alone I find continued operation wrong.]]	 Also, Berlin urgently needs i
+micro_b064_2	nd continued operation wrong. 	[[Also, Berlin urgently needs inner-city areas for business and industry, and for housing.]]	 Closing down Tegel will have 
+micro_b064_3	nd industry, and for housing. 	[[Closing down Tegel will have health benefits for hundreds of thousands in the approach path.]]	 These areas will be upgraded 
+micro_b064_4	ousands in the approach path. 	[[These areas will be upgraded economically due to these factors (housing health and employment).]]	 After the new BER Airport has
+micro_b064_5	using health and employment). 	[[After the new BER Airport has been commissioned, Tegel should definitely be closed.]]	
+micro_d01_0		[[Freddy and I must be siblings.]]	 We both have the exact same t
+micro_d01_1	reddy and I must be siblings. 	[[We both have the exact same two moles on our left arm and you only get that with siblings.]]	 My parents say this could als
+micro_d01_2	 only get that with siblings. 	[[My parents say this could also be pure coincidence.]]	 But that much of a coincidenc
+micro_d01_3	uld also be pure coincidence. 	[[But that much of a coincidence is simply impossible.]]	
+micro_d02_0		[[Berlin's basketball team has just come out of a sobering season.]]	 Especially the home games hav
+micro_d02_1	ome out of a sobering season. 	[[Especially the home games have seen the team stay behind expectations.]]	 A sad highlight: Losing 60:87
+micro_d02_2	eam stay behind expectations. 	[[A sad highlight: Losing 60:87 to the weakish Mannheimers in a sold-out stadium.]]	 Indeed the team ended up thir
+micro_d02_3	eimers in a sold-out stadium. 	[[Indeed the team ended up third in the league, but given the cost of the star-players one could've expected more.]]	
+micro_d03_0		[[It was clearly a mistake to include Tom in our football team.]]	 He's just not a team player, 
+micro_d03_1	ude Tom in our football team. 	[[He's just not a team player, and often goes it alone.]]	 Plus he comes to training way
+micro_d03_2	yer, and often goes it alone. 	[[Plus he comes to training way too rarely, although he plays very well without training.]]	 But the worst thing is his ha
+micro_d03_3	s very well without training. 	[[But the worst thing is his habit of always complaining to the referee.]]	
+micro_d04_0		[[Anti-virus software protects the users of a computer from dangers from the internet.]]	 That's why everyone should ha
+micro_d04_1	om dangers from the internet. 	[[That's why everyone should have an anti-virus programme on his or her Windows machine.]]	 Admittedly they do not genera
+micro_d04_2	n his or her Windows machine. 	[[Admittedly they do not generally prevent you from catching a virus, since they can only react to publicly known threats.]]	 But once a safeguard has been
+micro_d04_3	ct to publicly known threats. 	[[But once a safeguard has been found against a new virus, everyone gets it in no time through the automatic update.]]	
+micro_d05_0		[[Today I will delete my Facebook account.]]	 Not only because I'm constant
+micro_d05_1	l delete my Facebook account. 	[[Not only because I'm constantly astonished about who wants to be my friend.]]	 I'm also tired of my data boo
+micro_d05_2	ut who wants to be my friend. 	[[I'm also tired of my data boosting the market value of that corporation.]]	 Facebook warns me emphaticall
+micro_d05_3	et value of that corporation. 	[[Facebook warns me emphatically that I may lose contact with my friends.]]	 And yet now I'll actually hav
+micro_d05_4	lose contact with my friends. 	[[And yet now I'll actually have all the more time for them.]]	
+micro_d06_0		[[Peter should close his snack bar as soon as possible.]]	 Pricing pressures are just to
+micro_d06_1	nack bar as soon as possible. 	[[Pricing pressures are just too high, and his pool of customers is shrinking constantly.]]	 Of course he could do another
+micro_d06_2	mers is shrinking constantly. 	[[Of course he could do another big ad campaign, but that won't do the trick if the whole neighbourhood is going down the drain in the end.]]	
+micro_d07_0		[[The current tour of Tokio Hotel is breaking all records.]]	 Never have there been longer 
+micro_d07_1	otel is breaking all records. 	[[Never have there been longer queues at the advance ticket offices – in Japan there was one exceeding 3.2km – aside from, perhaps, during the heyday of Take That.]]	 But at times even the online 
+micro_d07_2	ring the heyday of Take That. 	[[But at times even the online sales outlets haven't been coping with the demand.]]	
+micro_d08_0		[[Although IBM's numbers haven't been staggering recently, and the mood in the stock market could be better on the whole, you should buy IBM shares if you want to invest.]]	 Because for one thing, their 
+micro_d08_1	shares if you want to invest. 	[[Because for one thing, their products will still sell in bad times, and in addition, such a share is not as sensitive as those of other IT companies.]]	
+micro_d09_0		[[You should watch less television, as too much TV makes you stupid in the long run, like your brother.]]	 It would be an exception if y
+micro_d09_1	 long run, like your brother. 	[[It would be an exception if you only watched quiz shows, but you tend to watch Big Brother and X-Diaries.]]	
+micro_d10_0		[[In a few decades our society will have a disproportionate number of old people: the life expectancy is constantly rising, and at the same time birth rates are declining.]]	 Although having children has 
+micro_d10_1	me birth rates are declining. 	[[Although having children has become more fashionable again in recent years, these short-term fluctuations in birth rates don't change the general trend at all.]]	
+micro_d11_0		[[We should go to the Baltic Sea on the weekend.]]	 According to the weather repo
+micro_d11_1	he Baltic Sea on the weekend. 	[[According to the weather report it'll be perfect beach weather, and one mustn't let this go to waste, even if I do have to prepare a presentation for Tuesday.]]	 Besides, I get to use my folk
+micro_d11_2	e a presentation for Tuesday. 	[[Besides, I get to use my folks' big, comfy car.]]	
+micro_d12_0		[[I can only recommend the new smartphone XYZ-123 to everyone.]]	 Of course the camera could be
+micro_d12_1	artphone XYZ-123 to everyone. 	[[Of course the camera could be better, as it only has mediocre resolution and images in dark surroundings are often snowy.]]	 But for snap shots that's sti
+micro_d12_2	surroundings are often snowy. 	[[But for snap shots that's still enough.]]	
+micro_d13_0		[[Whenever Peter bumps into an ex-girlfriend at a party, he forgoes any further consumption of alcohol just in case.]]	 When he got back from Ralf's 
+micro_d13_1	tion of alcohol just in case. 	[[When he got back from Ralf's party last night he was still stone-cold sober.]]	 Thus one of his ex-girlfriend
+micro_d13_2	e was still stone-cold sober. 	[[Thus one of his ex-girlfriends must have been there.]]	 Ralf does insist that they dr
+micro_d13_3	friends must have been there. 	[[Ralf does insist that they drank advocaat together.]]	 But even without an ex-girlfr
+micro_d13_4	they drank advocaat together. 	[[But even without an ex-girlfriend he would never touch that.]]	
+micro_d14_0		[[I think Fritz has never been in a fight in his life.]]	 As a boy he did use to scuffl
+micro_d14_1	 been in a fight in his life. 	[[As a boy he did use to scuffle with the other choirboys, but that hardly counts as a proper brawl.]]	 And he always chickens out wh
+micro_d14_2	dly counts as a proper brawl. 	[[And he always chickens out when things get dicey.]]	 Yesterday, when the bouncer w
+micro_d14_3	ns out when things get dicey. 	[[Yesterday, when the bouncer wouldn't let us in, he was suddenly gone.]]	
+micro_d15_0		[[Every day passengers are harassed by hooligans and drunks on the underground, trains and busses.]]	 Also the rules of the public 
+micro_d15_1	derground, trains and busses. 	[[Also the rules of the public transportation services are rarely observed.]]	 This is why we need more poli
+micro_d15_2	services are rarely observed. 	[[This is why we need more police presence in public transport, even if there are actually designated in-house security forces.]]	 Passengers would definitely f
+micro_d15_3	ted in-house security forces. 	[[Passengers would definitely feel safer then.]]	
+micro_d16_0		[[There are parliamentary elections soon and traditionally the governing party is generous with popular promises in the run-up to federal elections.]]	 Nevertheless the head of gove
+micro_d16_1	 run-up to federal elections. 	[[Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year.]]	 Voters have become more scept
+micro_d16_2	nnouncing handouts this year. 	[[Voters have become more sceptical.]]	 Too many promises have not be
+micro_d16_3	s have become more sceptical. 	[[Too many promises have not been kept.]]	
+micro_d17_0		[[Excessive consumption of meat is unhealthy.]]	 Furthermore, the production o
+micro_d17_1	umption of meat is unhealthy. 	[[Furthermore, the production of meat is comparably resource-intensive.]]	 We should thus all limit our 
+micro_d17_2	omparably resource-intensive. 	[[We should thus all limit our consumption of meat rigorously.]]	 One could worry that our farm
+micro_d17_3	nsumption of meat rigorously. 	[[One could worry that our farmers would then run into economic difficulties.]]	 However, no serious economist
+micro_d17_4	n into economic difficulties. 	[[However, no serious economist has confirmed this prediction to date.]]	
+micro_d18_0		[[Schweinsteiger has now been injured for three days.]]	 We urgently need a midfield r
+micro_d18_1	 been injured for three days. 	[[We urgently need a midfield replacement for the coming match.]]	 The doctor was able to sign h
+micro_d18_2	acement for the coming match. 	[[The doctor was able to sign him off as fit for play with enough painkillers, but that would only make the injury worse in the long run.]]	 And a young substitute always
+micro_d18_3	injury worse in the long run. 	[[And a young substitute always invigorates the team.]]	
+micro_d19_0		[[A bank bailout is very, very costly.]]	 For instance, the taxpayer st
+micro_d19_1	bailout is very, very costly. 	[[For instance, the taxpayer stood in for the failed bank 'Hypo Real Estate' with a three-figure billion amount.]]	 That's why we should not allo
+micro_d19_2	 three-figure billion amount. 	[[That's why we should not allow any additional bank rescues.]]	 The politicians are trying to
+micro_d19_3	 any additional bank rescues. 	[[The politicians are trying to appease us with the fact that actually only a tiny amount of all that money was really spent.]]	 But even with that tiny amoun
+micro_d19_4	 that money was really spent. 	[[But even with that tiny amount you could do a lot of good elsewhere.]]	
+micro_d20_0		[[The prototype of Audi's new sports car has car lovers raving.]]	 The steering system may still
+micro_d20_1	ts car has car lovers raving. 	[[The steering system may still need a bit of tweaking, as the car jack-knifes at higher speeds, and surely you'll want to be speeding a lot with that beauty.]]	 But aside from that the car c
+micro_d20_2	eding a lot with that beauty. 	[[But aside from that the car caters to pretty much every wish.]]	
+micro_d21_0		[[Energy saving light bulbs contain a significant amount of toxins.]]	 A commercially available bulb
+micro_d21_1	significant amount of toxins. 	[[A commercially available bulb may contain for example up to five milligrams of mercury.]]	 That's why they should be tak
+micro_d21_2	o five milligrams of mercury. 	[[That's why they should be taken off the market, unless they're unbreakable.]]	 But precisely this is unfortu
+micro_d21_3	, unless they're unbreakable. 	[[But precisely this is unfortunately not the case.]]	
+micro_d22_0		[[Large events that stir national or even international attention attract many visitors, and nothing will get Berlin out of its financial jam more than a lot of spending visitors.]]	 Hence the Mayor of Berlin oug
+micro_d22_1	n a lot of spending visitors. 	[[Hence the Mayor of Berlin ought to keep the hurdles for organizing such events as low as possible.]]	 Of course a higher federal su
+micro_d22_2	ch events as low as possible. 	[[Of course a higher federal subsidy would be even better for Berlin's coffers, but you shouldn't bother hoping for that.]]	
+micro_d23_0		[[Tomorrow I will skydive for the first time in my life.]]	 Yes, there is a certain risk 
+micro_d23_1	or the first time in my life. 	[[Yes, there is a certain risk to life.]]	 But I want to experience this
+micro_d23_2	re is a certain risk to life. 	[[But I want to experience this incredible moment of freedom that skydivers report time and again.]]	 Besides, Jochen was given a p
+micro_d23_3	divers report time and again. 	[[Besides, Jochen was given a parachute jump the other day as a gift, and it mustn't be that this wannabe-adventurer has one up on me.]]	
+micro_k001_0		[[Not everyone should be obliged to pay the TV & radio licence.]]	 Particularly the younger gene
+micro_k001_1	o pay the TV & radio licence. 	[[Particularly the younger generations are no longer dependent on the programming of public broadcasters.]]	 US series are preferred over 
+micro_k001_2	mming of public broadcasters. 	[[US series are preferred over “Tatort”, and online magazines are turned to instead of the “Tagesthemen”.]]	 The TV & radio licence enable
+micro_k001_3	instead of the “Tagesthemen”. 	[[The TV & radio licence enables economically independent journalism.]]	 But as long as the licence pa
+micro_k001_4	cally independent journalism. 	[[But as long as the licence payers have no say in the distribution of the funds, the fee quite rightly annoys them.]]	
+micro_k002_0		[[Actually it would be justified if all German universities charged tuition fees.]]	 As long as it is ensured that
+micro_k002_1	rsities charged tuition fees. 	[[As long as it is ensured that the funds really benefit the universities directly, one can continue to regard this as social justice.]]	 Those who study later decide 
+micro_k002_2	egard this as social justice. 	[[Those who study later decide this early on, anyway.]]	 It's always possible to take 
+micro_k002_3	decide this early on, anyway. 	[[It's always possible to take out a student loan or to earn a scholarship.]]	 To oblige non-academics to fi
+micro_k002_4	oan or to earn a scholarship. 	[[To oblige non-academics to finance others' degrees through taxes, however, is not just.]]	
+micro_k003_0		[[Usually you only have eight weeks to complete a bachelor thesis in linguistics degrees.]]	 Adjusting the portion of the 
+micro_k003_1	hesis in linguistics degrees. 	[[Adjusting the portion of the total grade upwards anyway would not be commensurate to other study assignments and examinations.]]	 Current regulations for the c
+micro_k003_2	assignments and examinations. 	[[Current regulations for the calculation of the total grade should therefore be maintained.]]	 Indeed the preparation of suc
+micro_k003_3	ould therefore be maintained. 	[[Indeed the preparation of such a scientific work is a fundamental competency that must be acquired in philological degrees.]]	 Throughout the six or seven s
+micro_k003_4	ired in philological degrees. 	[[Throughout the six or seven semesters, however, topics are covered that likewise ought to carry weight.]]	
+micro_k004_0		[[Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.]]	 This may be a change for the 
+micro_k004_1	 on any Sundays and holidays. 	[[This may be a change for the employees that cannot to be implemented easily.]]	 However, especially for worki
+micro_k004_2	not to be implemented easily. 	[[However, especially for working customers this would mean greater flexibility and fewer nerve-racking peak times during the week.]]	 Considering the growing digit
+micro_k004_3	g peak times during the week. 	[[Considering the growing digitization of society, the traditional model of the weekend will soon be obsolete.]]	 Many European countries, for 
+micro_k004_4	eekend will soon be obsolete. 	[[Many European countries, for instance the Netherlands, Sweden and Great Britain, have already understood this and successfully adjusted the opening hours for retailers.]]	
+micro_k006_0		[[If Germany were to introduce the death penalty, convicted felons could not be paroled or break out of prison and commit new felonies.]]	 However, a death would not be
+micro_k006_1	ison and commit new felonies. 	[[However, a death would not be of any more use to those affected and their relatives than if the felon receives a long sentence.]]	 Plus we don't live in medieva
+micro_k006_2	lon receives a long sentence. 	[[Plus we don't live in medieval times anymore.]]	 Handing out capital punishmen
+micro_k006_3	ve in medieval times anymore. 	[[Handing out capital punishment is unethical.]]	 We don't need it.
+micro_k006_4	ital punishment is unethical. 	[[We don't need it.]]	
+micro_k007_0		[[Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.]]	 For in this way, Sunday shopp
+micro_k007_1	holidays at their discretion. 	[[For in this way, Sunday shopping days would be better spread out through the year.]]	 Also streets and shops would 
+micro_k007_2	 spread out through the year. 	[[Also streets and shops would presumably be emptier as not everyone would be open on the same day.]]	 However then you'd have a wor
+micro_k007_3	ould be open on the same day. 	[[However then you'd have a worse overview of which shop is open on a given day.]]	
+micro_k008_0		[[If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt, which in turn would result in generally clean pavements.]]	 Higher fines may not be ideal
+micro_k008_1	in generally clean pavements. 	[[Higher fines may not be ideal, particularly for financially weaker individuals, but cleaning up after their dogs does happen to be the obligation of the owners.]]	
+micro_k009_0		[[Germany should by no means introduce capital punishment.]]	 If there were capital punishm
+micro_k009_1	introduce capital punishment. 	[[If there were capital punishment, this would mean people are allowed to put themselves above others and rule over their lives.]]	 Capital punishment would be m
+micro_k009_2	rs and rule over their lives. 	[[Capital punishment would be murder and would have to be punished with the death penalty itself.]]	 What, then, ought to be done 
+micro_k009_3	ith the death penalty itself. 	[[What, then, ought to be done with criminals who have committed truly awful crimes such as murder or rape - should they simply be allowed to live on although they have taken or destroyed another life?]]	 Yes, for it is a much graver 
+micro_k009_4	en or destroyed another life? 	[[Yes, for it is a much graver punishment to be imprisoned forever and be tortured by one's own thoughts than to be killed quickly and easily by an injection.]]	
+micro_k010_0		[[Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.]]	 In some cases there are only 
+micro_k010_1	t to) follow the programming. 	[[In some cases there are only shows for older generations on at prime times, so why then should everyone pay for this?]]	 By now you have advertising o
+micro_k010_2	should everyone pay for this? 	[[By now you have advertising on all channels, so there's no advantage for the current paying viewers of the public broadcasters.]]	 Nevertheless one has to point
+micro_k010_3	s of the public broadcasters. 	[[Nevertheless one has to point out that there'd probably be way fewer stations if it weren’t the whole of Germany that’s obliged to pay.]]	 That shouldn't be an issue th
+micro_k010_4	ermany that’s obliged to pay. 	[[That shouldn't be an issue though, given the sheer number of programmes and stations that essentially show the same things anyway.]]	
+micro_k011_0		[[Rent increases upon re-letting aren't bad as such, if it's only a small amount, With those kinds of amounts you think twice about whether you really want to stay in the flat.]]	 If there must be rent increas
+micro_k011_1	lly want to stay in the flat. 	[[If there must be rent increases, there should also be a cap to avoid nasty surprises.]]	 This helps the landlords, as 
+micro_k011_2	cap to avoid nasty surprises. 	[[This helps the landlords, as they can adjust their expenses through the increase, and also the tenants, as they can plan for a maximum rent increase.]]	 That the landlords are then s
+micro_k011_3	 for a maximum rent increase. 	[[That the landlords are then slightly restricted in the administration of their property is not a problem, as they have more pull in the end anyway.]]	 they’re very bad however, if 
+micro_k011_4	 more pull in the end anyway. 	[[they’re very bad however, if the rent suddenly climbs by €100 or €200.]]	
+micro_k012_0		[[German universities should on no account charge tuition fees.]]	 This would simply mean that o
+micro_k012_1	 account charge tuition fees. 	[[This would simply mean that only those people with wealthy parents or a previous education and a part-time job while studying would be able to apply for a degree programme in the first place.]]	 Even without tuition fees hal
+micro_k012_2	programme in the first place. 	[[Even without tuition fees half of the student population has to work while studying and hence has less time for studying or recreation.]]	 One could argue that an incre
+micro_k012_3	e for studying or recreation. 	[[One could argue that an increase in tuition fees would allow institutions to be better equipped.]]	 But what is the good of a won
+micro_k012_4	utions to be better equipped. 	[[But what is the good of a wonderfully outfitted university if it doesn't actually allow the majority of clever people to broaden their horizons with all that great equipment?]]	
+micro_k013_0		[[Supermarket employees and people who work in shopping centres also have the right to a Sunday off work.]]	 Likewise public holidays shou
+micro_k013_1	e right to a Sunday off work. 	[[Likewise public holidays should remain what they are: for some a day of introspection, for others a paid day off that is not taken away from the annual paid leave proper.]]	 Hence it is good when shops a
+micro_k013_2	the annual paid leave proper. 	[[Hence it is good when shops are not open on Sundays and public holidays.]]	 People, however, who work dur
+micro_k013_3	 Sundays and public holidays. 	[[People, however, who work during the week and on Saturdays then have a problem: everyone else can shop weekdays, but they can't.]]	 For those people the late ope
+micro_k013_4	hop weekdays, but they can't. 	[[For those people the late opening hours, which meanwhile already extend to 12:00 midnight, present a good alternative.]]	
+micro_k014_0		[[Intelligence services should be more closely regulated by parliament, for, as the most recent NSA wiretapping scandal has shown, the federal state government is allegedly not always familiar with the scope of operations of its intelligence services.]]	 Checks could contribute to re
+micro_k014_1	of its intelligence services. 	[[Checks could contribute to restricting the so far rather opaque scope of action of individual services.]]	 Yet it remains questionable w
+micro_k014_2	ction of individual services. 	[[Yet it remains questionable whether the actual implementation of such supervision would at the same time lead to a stronger observance of laws, as ultimately this decision is in the hands of the respective government leaders.]]	
+micro_k015_0		[[BER should be re-conceptualized from scratch, even if billions of Euros have already been invested in the existing airport project and this would delay the date of completion indefinitely.]]	 Both the drawn-out building o
+micro_k015_1	e of completion indefinitely. 	[[Both the drawn-out building operations and the mounting safety issues show clear shortcomings in the entire planning.]]	
+micro_k016_0		[[Despite the severe clashes in Kiev, which at times have threatened to escalate, the EU should not intervene in local politics.]]	 Although Ukraine is a Europea
+micro_k016_1	 intervene in local politics. 	[[Although Ukraine is a European country, and the Ukrainian opposition is primarily interested in installing a robust democracy, possible supporters face a considerably stronger opponent in the intervention of Russia in local politics.]]	
+micro_k017_0		[[The implementation of retirement at 63 is no longer socially sustainable, as the population in Germany has, viewed demographically, a disproportionate number of old people, and constantly declining birth rates are being recorded.]]	 Admittedly the number of immi
+micro_k017_1	rth rates are being recorded. 	[[Admittedly the number of immigrants is constantly rising in Germany, but without sufficient, well-qualified junior employees there is hardly a possibility for adequate pension financing.]]	
+micro_k018_0		[[Our society is in danger of overheating due to 'never clocking off'.]]	 Even though politicians stres
+micro_k018_1	 due to 'never clocking off'. 	[[Even though politicians stress the Christian character of our country, the last 20 years have seen the Sunday off work increasingly sacrificed to commerce.]]	 But after all, the purpose of
+micro_k018_2	ingly sacrificed to commerce. 	[[But after all, the purpose of having a day off is not just to make time to go to church.]]	 Rather it should give people 
+micro_k018_3	to make time to go to church. 	[[Rather it should give people the chance to have a mental break.]]	 That's why there ought to be 
+micro_k018_4	hance to have a mental break. 	[[That's why there ought to be one day a week when supermarkets and shopping centres stay closed.]]	
+micro_k019_0		[[The thought of television exclusively made up of private channels scares me.]]	 Admittedly trash and turmoil 
+micro_k019_1	f private channels scares me. 	[[Admittedly trash and turmoil are exactly what the majority of people want to see.]]	 But to therefore offer TV acc
+micro_k019_2	jority of people want to see. 	[[But to therefore offer TV according to audience rates only would be dangerous.]]	 Only in public TV programmes 
+micro_k019_3	ates only would be dangerous. 	[[Only in public TV programmes can viewers get information that is not profit-oriented.]]	 And since it is the duty of s
+micro_k019_4	 that is not profit-oriented. 	[[And since it is the duty of society to collectively finance certain areas that cannot hold their own in a market economy, everyone should chip in.]]	
+micro_k020_0		[[Despite the death penalty there are significantly more homicides in the US than in Germany.]]	 Fear of punishment hence does
+micro_k020_1	es in the US than in Germany. 	[[Fear of punishment hence does not deter murderers.]]	 'An eye for an eye' seems to 
+micro_k020_2	nce does not deter murderers. 	[['An eye for an eye' seems to miss the point.]]	 The state ought to prevent mu
+micro_k020_3	eye' seems to miss the point. 	[[The state ought to prevent murder - not avenge it.]]	 A re-introduction of capital 
+micro_k020_4	event murder - not avenge it. 	[[A re-introduction of capital punishment in Germany would be a step back into the Middle Ages.]]	
+micro_k021_0		[['Property entails commitment' is one of the tenets of our social order.]]	 Everyone should be able to ge
+micro_k021_1	e tenets of our social order. 	[[Everyone should be able to get the utmost profit from his or her property.]]	 A fixing of rent prices accor
+micro_k021_2	fit from his or her property. 	[[A fixing of rent prices according to the market alone, however, will lead to a further division of society.]]	 The rich and poor live in dif
+micro_k021_3	 further division of society. 	[[The rich and poor live in different neighbourhoods.]]	 A constant increase in rent u
+micro_k021_4	 in different neighbourhoods. 	[[A constant increase in rent upon a change of tenants hence cannot be desired by society.]]	
+micro_k022_0		[[It is quite clear that Sunday should remain a day of rest.]]	 For you can go shopping 6 day
+micro_k022_1	 should remain a day of rest. 	[[For you can go shopping 6 days a week, as shops are open till 10pm on some days.]]	 Thus Sundays should remain a 
+micro_k022_2	 open till 10pm on some days. 	[[Thus Sundays should remain a day for getting together with family, otherwise there will be a new kind of leisure activity where people spend their time in supermarkets instead of outside or in conversation etc. Furthermore, there's no need to keep shops open on Sundays.]]	
+micro_k023_0		[[The BA dissertation should, if not make up the entire grade, then at least constitute a larger share of it.]]	 For a good overall grade open
+micro_k023_1	stitute a larger share of it. 	[[For a good overall grade opens many doors, but is not of top priority for employers.]]	 With a BA dissertation one ca
+micro_k023_2	f top priority for employers. 	[[With a BA dissertation one can, however, demonstrate interests and subject matter expertise particularly well.]]	 After all one doesn't excel i
+micro_k023_3	 expertise particularly well. 	[[After all one doesn't excel in every subject.]]	
+micro_k024_0		[[Dog owners should pay higher fines for dog dirt left on pavements, although there aren't enough bins and bag-dispensers for dog dirt.]]	 One reason for this is that t
+micro_k024_1	 bag-dispensers for dog dirt. 	[[One reason for this is that they have thus far hardly had to fear the consequences despite the obligation to clean up.]]	 A higher fine, so dog owners 
+micro_k024_2	e the obligation to clean up. 	[[A higher fine, so dog owners would have to dig deeper into their pockets, is supposed to be a deterrent after all.]]	 The city, especially the gree
+micro_k024_3	 to be a deterrent after all. 	[[The city, especially the green spaces, should be kept tidy after all, for they are there for our recreation.]]	 Besides you're not allowed to
+micro_k024_4	are there for our recreation. 	[[Besides you're not allowed to leave other rubbish without punishment.]]	
+micro_k025_0		[[Capital punishment is not a solution, as it cannot be ruled out that the judicial process may make mistakes.]]	 Criminals should not be put i
+micro_k025_1	al process may make mistakes. 	[[Criminals should not be put in luxury prisons, though.]]	 After all there are criminals
+micro_k025_2	ut in luxury prisons, though. 	[[After all there are criminals who enjoy 'living' in prison for its decent board, no taxes to be paid, no stress with work.]]	 Still, the state needs the de
+micro_k025_3	be paid, no stress with work. 	[[Still, the state needs the death penalty as a deterrent to horrific crimes.]]	
+micro_k027_0		[[The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.]]	 After all there are many peop
+micro_k027_1	g of the public broadcasters. 	[[After all there are many people in Germany who pay the fee although they merely use a computer to work.]]	 Yet the fees are demanded fro
+micro_k027_2	erely use a computer to work. 	[[Yet the fees are demanded from everybody who does not apply for a waiver, no matter how many receiver devices actually exist in the household and how they are being used.]]	 However it is obvious that th
+micro_k027_3	 and how they are being used. 	[[However it is obvious that the license fee officers are not in a position to check the usage of every single device.]]	
+micro_k029_0		[[No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.]]	 Though there'd be the advanta
+micro_k029_1	 the counter at the pharmacy. 	[[Though there'd be the advantage of forgoing the embarrassment of a visit to the doctor or a nighttime trip to the walk-in clinic, women should still be informed about the risks and have a gynaecological examination before taking it.]]	 Furthermore there's the risk 
+micro_k029_2	examination before taking it. 	[[Furthermore there's the risk that women could use the over-the-counter morning-after pill as a substitute for contraception.]]	
+micro_k031_0		[[Pieces of dog poo on the pavements are a real danger.]]	 Time and again children or th
+micro_k031_1	 pavements are a real danger. 	[[Time and again children or the elderly slip on them.]]	 A fine for leaving dog waste 
+micro_k031_2	 or the elderly slip on them. 	[[A fine for leaving dog waste behind admittedly seems rather authoritarian, but similar rules are often in place for bicycles on park paths, after all.]]	 Increasing penalties is there
+micro_k031_3	les on park paths, after all. 	[[Increasing penalties is therefore the right way.]]	 A dog dirt-free city will be 
+micro_k031_4	s is therefore the right way. 	[[A dog dirt-free city will be more attractive not only for its residents but also for tourists!]]	

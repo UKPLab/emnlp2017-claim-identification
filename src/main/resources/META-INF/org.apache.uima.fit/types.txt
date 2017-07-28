@@ -1,0 +1,3 @@
+classpath*:desc/types/EmbeddingsAnnotation.xml
+classpath*:desc/types/SentimentTypeSystem.xml
+classpath*:desc/types/PennDiscourseTreeBankTypeSystem.xml
