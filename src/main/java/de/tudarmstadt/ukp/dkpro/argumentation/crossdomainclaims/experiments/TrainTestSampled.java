@@ -20,7 +20,6 @@ package de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims.experiments;
 
 
 import de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims.experiments.utils.ExperimentUtils;
-import de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims.features.dictionary.LiwcUFE;
 import de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims.features.discourse.PDTBDiscourseFeatures;
 import de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims.features.embeddings.EmbeddingFeatures;
 import de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims.features.sentiment.StanfordSentimentUFE;
@@ -58,19 +57,6 @@ public class TrainTestSampled implements Constants {
 	// 6 = language code test data
     public static void main(String[] args) throws Exception {
   
-//      	args = new String[6];
-//    	args[0]="/Users/zemes/Desktop/NLP/Papers/TACL2016/data/prep4/PE";
-//    	args[1]="/Users/zemes/Desktop/NLP/Papers/TACL2016/data/prep4/WD";
-//    	args[1]="/Users/zemes/Desktop/NLP/Papers/TACL2016/data/prep4/MT";
-//    	args[1]="/Users/zemes/Desktop/NLP/Papers/TACL2016/data/prep4/OC";
-//    	args[1]="/Users/zemes/Desktop/NLP/Papers/TACL2016/data/prep4/WTP";
-    	//args[1]="/Users/zemes/Desktop/NLP/Papers/TACL2016/data/prep4/VG";
-//    	args[1]="/Users/zemes/Desktop/NLP/Papers/TACL2016/data/prep4/PE";
-//    	args[2]="/Users/zemes/DEVELOPMENT/Experiments/Cross-Domain-Experiments/structure2/PE-MT-structure";
-//    	args[3]="structure";
-//    	args[4]="en";
-//    	args[5]="en";
-
 	    System.setProperty("org.apache.uima.logger.class",
 			    "org.apache.uima.util.impl.Log4jLogger_impl");
 
@@ -123,14 +109,7 @@ public class TrainTestSampled implements Constants {
                      DependencyTriples.PARAM_NUMBER_OF_DEPENDENCY_TRIPLES, 4000,
                      
                      ProductionRules.PARAM_THRESHOLD, 5,
-                     ProductionRules.PARAM_NUMBER_OF_PRODRULES, 4000,
-/*
-                 don't use it, it fails on the HRZ cluster, needs to be loaded from classpath
-				java.io.IOException: Cannot load file:/work/projects/Project00138/arg-cross/de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims-0.0.1-SNAPSHOT-standalone.jar!/dictionary/LIWC_en.txt either as File or as stream
-				at de.tudarmstadt.ukp.dkpro.argumentation.crossdomainclaims.features.dictionary.LiwcUFE.initialize(LiwcUFE.java:112)
-*/
-//                     LiwcUFE.PARAM_DICTIONARY_FILE, ResourceUtils.resolveLocation("classpath:/dictionary/LIWC_en.txt").getFile(),
-                     LiwcUFE.PARAM_ROW_DELIMITER, "\t"
+                     ProductionRules.PARAM_NUMBER_OF_PRODRULES, 4000
             }));
                 
 		List<String> discFeatures = new ArrayList<String>();
@@ -160,10 +139,7 @@ public class TrainTestSampled implements Constants {
 			discFeatures.add(EmbeddingFeatures.class.getName());
 		}
 
-		if (featureType.contains("dictionary")) {
-			System.out.println("using dictionary features");
-			discFeatures.add(LiwcUFE.class.getName());
-		}
+
 
 		if (featureType.contains("discourse")) {
 			System.out.println("using discourse features");
@@ -191,8 +167,7 @@ public class TrainTestSampled implements Constants {
 			discFeatures.add(NumTokensComponent.class.getName());
 			// embeddings
 			discFeatures.add(EmbeddingFeatures.class.getName());
-			// dictionary
-			discFeatures.add(LiwcUFE.class.getName());			
+		
 			// discourse
 			discFeatures.add(PDTBDiscourseFeatures.class.getName());
 			// sentiment
