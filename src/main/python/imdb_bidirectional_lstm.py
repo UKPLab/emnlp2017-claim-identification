@@ -12,7 +12,7 @@ from keras.models import Model
 from keras.layers import Dense, Dropout, Embedding, LSTM, Input, merge
 from keras.datasets import imdb
 from keras.callbacks import ModelCheckpoint
-
+import readData as rd
 
 def threshold(x):
   if x>0.5: return 1
@@ -33,24 +33,8 @@ max_features = 20000
 maxlen = 80  # cut texts after this number of words (among top max_features most common words)
 batch_size = 32
 
-print('Loading data...')
-(X_train, y_train), (X_test, y_test) = imdb.load_data(nb_words=max_features,
-                                                      test_split=0.2)
-print(len(X_train), 'train sequences')
-print(len(X_test), 'test sequences')
-
-print("Pad sequences (samples x time)")
-X_train = sequence.pad_sequences(X_train, maxlen=maxlen)
-X_test = sequence.pad_sequences(X_test, maxlen=maxlen)
-print('X_train shape:', X_train.shape)
-print('X_test shape:', X_test.shape)
-y_train = np.array(y_train)
-y_test = np.array(y_test)
-
-import readData as rd
 word2index = {}
 X_train,y_train,word2index = rd.read(sys.argv[1],word2index=word2index,startIndex=1)
-#X_train,y_train = X_train[:1000],y_train[:1000]
 X_dev,y_dev,_ = rd.read(sys.argv[2],word2index,None)
 X_test,y_test,_ = rd.read(sys.argv[3],word2index,None)
 doReShape=False
@@ -101,14 +85,11 @@ weightsPath = "/tmp/weights2.hdf5"
 checkpointer = ModelCheckpoint(filepath=weightsPath, verbose=1, save_best_only=True)
 model.fit(X_train, y_train, batch_size=batch_size, nb_epoch=5,
           validation_data=(X_dev, y_dev),callbacks=[checkpointer])
-#score, acc = model.evaluate(X_test, y_test,
-#                            batch_size=batch_size)
 # need to load the best weights
 model.load_weights(weightsPath)
 scoreBest, accBest = model.evaluate(X_test, y_test,
                             batch_size=batch_size)
-#print('Test score:', score)
-#print('Test accuracy:', acc)
+
 print('Test score:', scoreBest)
 print('Test accuracy:', accBest)
 pTest = model.predict_on_batch(X_test)
@@ -123,12 +104,6 @@ for i in xrange(len(pDev)):
   if doReShape: pr = str(np.argmax(pDev[i]))
   else: pr = str(threshold(pDev[i][0]))
   predsDev.append( pr )
-#predsTest = map(str,model.predict_on_batch(X_test))
-#predsVal = map(str,model.predict_on_batch(X_dev))
 print("TEST:"+" ".join(predsTest))
 print("DEV:"+" ".join(predsDev))
 
-#model.fit(X_train, y_train,
-#          batch_size=batch_size,
-#          nb_epoch=5,
-#          validation_data=[X_test, y_test])
