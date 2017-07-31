@@ -20,6 +20,7 @@ See also `runID_w2vec_maj20_single_gpu.py`
 ## BiLSTM, LSTM
 
 We took an implementation of an LSTM and BiLSTM directly from here: https://github.com/fchollet/keras/blob/master/examples/imdb_lstm.py
+
 Our implementations (found in `imdb_bidirectional_lstm.py` and `imdb.py`) are straightforward adaptations of this code.
 
 # Data format
