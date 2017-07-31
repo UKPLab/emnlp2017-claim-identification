@@ -1,6 +1,6 @@
 # How to run the programs
 
-##Kim's CNN
+## Kim's CNN
 
 This directory contains an adaptation of the code in https://github.com/yoonkim/CNN_sentence.
 The adaptation allows to specify train, dev, and test sets yourself.
