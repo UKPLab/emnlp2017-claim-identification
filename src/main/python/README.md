@@ -1,4 +1,4 @@
-# How to run the programs
+# How to run the programs: Kim's CNN
 
 This directory contains an adaptation of the code in https://github.com/yoonkim/CNN_sentence.
 The adaptation allows to specify train, dev, and test sets yourself.
@@ -14,6 +14,11 @@ Then you read out the max length from `<temporaryFile>` and run
 The model's predictions on the test set will be output on the command line. 
 
 See also `runID_w2vec_maj20_single_gpu.py`
+
+## How to run the programs: BiLSTM, LSTM
+
+We took an implementation of an LSTM and BiLSTM directly from here: https://github.com/fchollet/keras/blob/master/examples/imdb_lstm.py
+Our implementations (found in `imdb_bidirectional_lstm.py` and `imdb.py`) are straightforward adaptations of this code.
 
 # Data format
 
