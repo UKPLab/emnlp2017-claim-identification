@@ -19,7 +19,6 @@ See also `runID_w2vec_maj20_single_gpu.py`
 
 The data format is as simple as it can get: tokenized sentence, tab, label (binary currently). An example is
 
-First of all , as I mentioned above students should have a right to choose what they want to study .    1
-
-Discuss both harms and good of advertising and give your opinion        0
+> First of all , as I mentioned above students should have a right to choose what they want to study .    1
+> Discuss both harms and good of advertising and give your opinion        0
  
