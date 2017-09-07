@@ -1,12 +1,5 @@
-'''Trains a LSTM on the IMDB sentiment classification task.
-The dataset is actually too small for LSTM to be of any advantage
-compared to simpler, much faster methods such as TF-IDF+LogReg.
-Notes:
-- RNNs are tricky. Choice of batch size is important,
-choice of loss and optimizer is critical, etc.
-Some configurations won't converge.
-- LSTM loss decrease patterns during training can be quite different
-from what you see with CNNs/MLPs/etc.
+'''Trains a LSTM for sentence classification. 
+Taken from here: https://github.com/fchollet/keras/blob/master/examples/
 '''
 from __future__ import print_function
 import numpy as np,sys,time
@@ -17,7 +10,6 @@ from keras.utils import np_utils
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Activation, Embedding
 from keras.layers import LSTM, SimpleRNN, GRU
-from keras.datasets import imdb
 from keras.callbacks import ModelCheckpoint
 
 def reshape(x):
@@ -35,21 +27,6 @@ maxlen = 80  # cut texts after this number of words (among top max_features most
 batch_size = 32
 
 print('Loading data...')
-(X_train, y_train), (X_test, y_test) = imdb.load_data(nb_words=max_features,test_split=0.2)
-X_dev = X_test
-y_dev = y_test
-
-#print(y_train.shape)
-#print(y_train[0:10]); 
-#y_train = reshape(y_train)
-#y_test = reshape(y_test)
-#print(y_train.shape)
-#print(y_train[0:10,:]);
-#print(X_train.shape)
-#print(X_train[0])
-#print(type(X_train[0]))
-#print(len(X_train), 'train sequences')
-#print(len(X_test), 'test sequences')
 
 newData=True
 import readData as rd
@@ -63,14 +40,6 @@ if newData:
 	y_train = reshape(y_train)
 	y_test = reshape(y_test)
 	y_dev = reshape(y_dev)
-#np.set_printoptions(threshold=np.inf)
-#print(np.array_str(X_train))
-#print(np.array_str(y_train))
-#print(np.array_str(X_dev))
-#print(np.array_str(y_dev))
-#print(np.array_str(X_test))
-#print(np.array_str(y_test))
-#sys.exit(1)
 
 print('Pad sequences (samples x time)')
 X_train = sequence.pad_sequences(X_train, maxlen=maxlen)
@@ -79,7 +48,6 @@ X_dev = sequence.pad_sequences(X_dev, maxlen=maxlen)
 print('X_train shape:', X_train.shape)
 print('X_test shape:', X_test.shape)
 print(X_train[0,:])
-#sys.exit(1)
 
 print('Build model...')
 model = Sequential()
@@ -114,8 +82,7 @@ score, acc = model.evaluate(X_test, y_test,
 model.load_weights(weightsPath)
 scoreBest, accBest = model.evaluate(X_test, y_test,
                             batch_size=batch_size)
-#print('Test score:', score)
-#print('Test accuracy:', acc)
+
 print('Test score:', scoreBest)
 print('Test accuracy:', accBest)
 predsTest = map(str,model.predict_classes(X_test,verbose=0))

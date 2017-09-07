@@ -1,6 +1,5 @@
-'''Train a Bidirectional LSTM on the IMDB sentiment classification task.
-Output after 4 epochs on CPU: ~0.8146
-Time per epoch on CPU (Core i7): ~150s.
+'''Train a Bidirectional LSTM for sentence classification.
+Taken from here: https://github.com/fchollet/keras/blob/master/examples/ 
 '''
 
 from __future__ import print_function
@@ -10,7 +9,6 @@ np.random.seed(1337)  # for reproducibility
 from keras.preprocessing import sequence
 from keras.models import Model
 from keras.layers import Dense, Dropout, Embedding, LSTM, Input, merge
-from keras.datasets import imdb
 from keras.callbacks import ModelCheckpoint
 import readData as rd
 
@@ -49,7 +47,6 @@ X_test = sequence.pad_sequences(X_test, maxlen=maxlen)
 X_dev = sequence.pad_sequences(X_dev, maxlen=maxlen)
 print('X_train shape:', X_train.shape)
 print('X_test shape:', X_test.shape)
-#print(X_train[0,:])
 
 
 # this is the placeholder tensor for the input sequences
@@ -75,7 +72,6 @@ else:
 output = Dense(ounits, activation=activation)(after_dp)
 
 model = Model(input=sequence, output=output)
-#print(dir(model))
 
 # try using different optimizers and different optimizer configs
 model.compile('adam', 'binary_crossentropy', metrics=['accuracy'])
