@@ -13,7 +13,7 @@ Then you read out the max length from `<temporaryFile>` and run
 
 ``python conv_net_sentence_withDevelSet_fixed.py -nonstatic -rand <maxLength> <storeFile.pickle>``
 
-The model's predictions on the test set will be output on the command line. 
+The model's predictions on the test set will be output on the command line.
 
 See also `runID_w2vec_maj20_single_gpu.py`
 
@@ -23,7 +23,9 @@ We took an implementation of an LSTM and BiLSTM directly from here: https://gith
 
 Our implementations (found in `bidirectional_lstm.py` and `lstm.py`) are straightforward adaptations of this code.
 
-# Data format
+# Data
+
+The experimental data can be found in `data.zip` in this directory. It contains labeled sentences in the 10-fold CV data split as used in our experiments.
 
 The data format is as simple as it can get: tokenized sentence, tab, label (binary currently). An example is
 
@@ -32,4 +34,3 @@ The data format is as simple as it can get: tokenized sentence, tab, label (bina
 ``Discuss both harms and good of advertising and give your opinion        0``
 
 As you can see, one example (sentence+label) per line.
- 

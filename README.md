@@ -31,14 +31,21 @@ https://www.tu-darmstadt.de/
 
 Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
 
-> This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication. 
+> This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
+
+## How to Run
+
+The experimental code can be found in `src/main/java` and `src/main/python`. Please refer to the respective README files for individual folders.
+
+## Data
+
+All data used for the experiments can be found in a simple sentence-based format in `src/main/python`. If you need the source data for the experiments in `src/main/java`, please contact the authors.
 
 ## Requirements
 
-* Java 1.7 and higher
-* Maven
-* 64-bit Linux versions or Mac OS
+* Java 1.7 and higher, Maven (for Java-based experiments)
+* Python 2.7 and virtualenv (for Python-based experiments)
+* tested on 64-bit Linux versions and Mac OS
 * 16 GB RAM
-* Python
-* High-performance Compute Cluster or any large-scale machine for running all experiments in parallel 
-
+* Python 2.7
+* High-performance Compute Cluster or any large-scale machine for running all experiments in parallel
